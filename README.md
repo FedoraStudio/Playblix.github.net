@@ -13,4 +13,9 @@ New Game Platform better then roblox!
 3. Number of employees, damn, there are none, only 1 and that's the creator.
 4. Quality and Features.
 
-#3
+#3 What was it written on?
+
+1. C++,JavaScript,Lua Lua-- I'm not stealing the idea from Roblox because Lua is also in Garry's Mod.
+2. VsCode.
+
+By Synthovix https://www.youtube.com/@Synthovix
